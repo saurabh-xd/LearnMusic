@@ -1,5 +1,4 @@
 import { Meteors } from '@/components/ui/meteors'
-import { div } from 'motion/react-client'
 import React from 'react'
 
 function page() {
